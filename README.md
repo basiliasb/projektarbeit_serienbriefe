@@ -1,1 +1,1 @@
-<h1> Dieses Projekt wurde im Rahmen einer Abschlussarbeit Studiengangs "CAS Siedlungsentwässerung" der Berner Fachhochschule erstellt. <h1/>
+<h1> Dieses Projekt ist Teil einer Abschlussarbeit des Studiengangs "CAS Siedlungsentwässerung" der Berner Fachhochschule. <h1/>
