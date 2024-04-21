@@ -95,7 +95,7 @@
 <li>Die CSV-Datei wird mit der Empfängerliste verbunden.</li>
 </ul>
 </li>
-<li>Mit der Tastenkombination CTRL + A den gesamten Text markieren &gt; Taste FN9 drücken
+<li>Mit der Tastenkombination CTRL + A den gesamten Text markieren &gt; Taste F9 drücken
 <ul>
 <li>Die Seriendurckfelder werden aktualisiert. Womöglich erscheint eine Warnmeldung die mit &laquo;Ja&raquo; bestätigt werden kann. Damit können die Kartenschnitte als externe Dateien in Word integriert werden.</li>
 <li>Mit den Pfeil Tasten in der Gruppe &laquo;Vorschau und Ergebnisse&raquo; kann zwischen den Empfänger navigiert werden. Der Inhalt der Seriendruckfelder im Text sollte während dem Navigieren ändern. Normalerweise werden die Kartenausschnitte nicht aktualisiert. Dafür muss jeweils der Kartenausschnitt bzw. das Seriendruckfeld ausgewählt und mit der Betätigung der F9 Taste aktualisiert werden.</li>
