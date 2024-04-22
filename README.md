@@ -102,6 +102,14 @@
 </ul>
 </li>
 <li>Register Sendungen &gt; &laquo;Fertig stellen und zusammenführen&raquo; wählen &gt;</li>
+<ul>
+<li> Register Sendungen > «Fertig stellen und zusammenführen» wählen> Dokumente drucken… > Im Fenster «Seriendruck an Druck» «Alle» wählen. > OK </li>
+<li>	Ein neues Fenster wird geöffnet in der die Druckoptionen bestimmt werden können</li>
+</ul>
+<li>	Klick auf «Optionen» > Im Fenster «Word-Optionen» in der Gruppe «Anzeige» > «Verknüpfte Daten vor dem Drucken aktualisieren» wählen</li>
+<li>	Da die Kartenausschnitte verknüpfte Daten sind, die aktualisiert werden müssen, muss diese Option vor dem Druck gewählt sein</li>
+<li>	Im «Drucken» Fenster > Unter «Drucker» «Microsoft print to PDF» wählen > OK </li>
+<li>	Beim Drucken bzw. bei der Erstellung der PDF kann der Pfad gewählt werden. Damit werden die Serienbriefe als ein PDF abgespeichert. </li>
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
