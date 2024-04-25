@@ -35,7 +35,7 @@
 </li>
 <li>In den Eingabefelder die Datensätze per Drop-Down Menu auswählen. Unter dem Eingabefeld &laquo;adressen&raquo; der Ablageort mit dem Pfad <em>&laquo;[&hellip;]/serienbriefe/adressliste/adressen.csv&raquo; </em>
 
-![TEKSI wastewater Module](screenshots/pfad_adressliste.png)
+![TEKSI wastewater Module](https://github.com/basiliasb/projektarbeit_serienbriefe/screenshots/pfad_adressliste.png)
 
 
 <ul>
