@@ -34,6 +34,9 @@
 </ul>
 </li>
 <li>In den Eingabefelder die Datensätze per Drop-Down Menu auswählen. Unter dem Eingabefeld &laquo;adressen&raquo; der Ablageort mit dem Pfad <em>&laquo;[&hellip;]/serienbriefe/adressliste/adressen.csv&raquo; </em>
+
+![TEKSI wastewater Module](https://github.com/basiliasb/projektarbeit_serienbriefe/blob/2374fcf6c6b67afff4b6c90c7fc1ee5458ba99aa/screenshots/pfad_adressliste.png?raw=true)
+
 <ul>
 <li>Es kann sein, dass für einige Parameter bereits Datensätze gewählt sind. Diese haben jeweils eine längere Zeichenkette nach dem eigentlichen Layername. Solche Datensätze können für die Modellierung nicht genutzt werden. Deshalb muss jeder Parameter neu bestimmt werden.</li>
 <li>Der Ablageort darf keine Datei mit denselben Namen wie die Ausgabedatei enthalten. Da keine Dateien überschrieben werden, wird das Modell in diesem Fall nicht ausgeführt.</li>
